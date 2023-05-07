@@ -49,6 +49,4 @@ const product = await prismaClient.product.findFirst({
 });
 ```
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
 ---
